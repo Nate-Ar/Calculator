@@ -1,4 +1,7 @@
-
+# Creator: Nathan A
+# Description: Does your vocab for you
+# Creation Date: 8/3/2020
+# Update Date: 
 while True:
     aos = input('Do you want to add, subtract, multiply, division or quit() $ ')
     # Add
