@@ -1,5 +1,5 @@
 # Creator: Nathan A
-# Description: Does your vocab for you
+# Description: Simple Calculator
 # Creation Date: 8/3/2020
 # Update Date: 
 while True:
